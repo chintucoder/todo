@@ -1,1 +1,3 @@
-alert(4);
+function addTask() {
+	alert(7);
+}
